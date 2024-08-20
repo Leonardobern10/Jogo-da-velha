@@ -37,6 +37,8 @@ Este é um projeto de Jogo da Velha (ou Tic-Tac-Toe) desenvolvido com HTML, CSS 
 
 ## Como Jogar
 
+Acesse em: [Jogo da velha](https://leonardobern10.github.io/Jogo-da-velha/)
+
 1. Ao abrir o jogo, dois jogadores devem alternar entre 'X' e 'O' clicando nas células do tabuleiro.
 2. O jogo irá automaticamente verificar e anunciar se um jogador venceu ou se houve um empate.
 3. O contador de pontos será atualizado conforme os jogadores ganham.
